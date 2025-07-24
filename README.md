@@ -1,0 +1,1 @@
+# Wazuh-SIEM-Setup---Manager-Agent
