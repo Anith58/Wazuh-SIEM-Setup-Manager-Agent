@@ -25,8 +25,7 @@ sudo apt update && sudo apt upgrade -y
 ### Download and install Wazuh Manager
 
 ```bash
-curl -sO https://packages.wazuh.com/4.8/wazuh-install.sh
-sudo bash wazuh-install.sh -a
+curl -sO https://packages.wazuh.com/4.12/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
 ```
 
 ### Allow firewall ports
