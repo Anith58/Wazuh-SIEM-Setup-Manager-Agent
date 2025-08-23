@@ -28,7 +28,7 @@ sudo apt update && sudo apt upgrade -y
 curl -sO https://packages.wazuh.com/4.12/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
 ```
 
-### Allow firewall ports
+### Allow firewall ports...
 
 ```bash
 sudo ufw allow 1514/tcp
