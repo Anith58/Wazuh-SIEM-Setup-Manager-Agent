@@ -27,7 +27,7 @@ sudo apt update && sudo apt upgrade -y
 ```bash
 curl -sO https://packages.wazuh.com/4.12/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
 ```
-
+if you see hardware fail use -i in last
 ### Allow firewall ports..
 
 ```bash
